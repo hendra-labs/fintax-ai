@@ -1,0 +1,6 @@
+{
+  "name": "FinTax AI",
+  "description": "Platform Otomatisasi Keuangan & Kepatuhan Pajak Berbasis AI - Autonomous CFO & Tax Copilot for Modern Freelancers and SMEs with Open Finance Sync, Double-Entry Bookkeeping, and Indonesian Tax Compliance Engine.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
